@@ -8,5 +8,3 @@ git、IDEA
  JDK 1.8
  Maven
  MySQL
-
-
