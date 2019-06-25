@@ -4,7 +4,12 @@
 git、IDEA
 
 ## 技术
- Spring Boot 2.1.6
+ Spring Boot 2.1.6.RELEASE
+ 
  JDK 1.8
+ 
  Maven
+ 
  MySQL
+ 
+ Bootstrap
