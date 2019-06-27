@@ -13,6 +13,7 @@ public class GithubUser implements Serializable {
     private String id;
     private String login;
     private String bio;
+    private String avatar_url;
 
 
 }
